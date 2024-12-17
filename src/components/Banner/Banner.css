@@ -1,0 +1,22 @@
+.Banner{
+  width: 100%;
+  height: 700px;
+ 
+  background: url('https://img.freepik.com/fotos-gratis/sorvete-de-close-up-com-cobertura_23-2148569471.jpg?t=st=1734399370~exp=1734402970~hmac=7459ab0935f4910ddd487d0f09a8ccec52c1028de9e34a004fb8caacc75bf314&w=740')no-repeat center / cover;
+}
+.text{
+  width: 100%;
+  height: 100%;
+  font-size: 2.5rem;
+  color: rgb(250, 244, 248);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.text p{
+  font-style: italic;
+  text-shadow: -4px 4px 3px rgb(2, 2, 2);
+}

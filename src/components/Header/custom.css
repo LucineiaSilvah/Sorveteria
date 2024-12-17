@@ -1,0 +1,7 @@
+.bg-custom{
+  width: 100%;
+  position: absolute;
+  height: 150px;
+  padding-bottom: 5rem;
+  background:url('../../assets/4261-removebg-preview.png')repeat-x 
+}
